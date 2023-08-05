@@ -22,7 +22,7 @@ Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
 1. Projeyi GitHub'dan indirin veya klonlayın: `git clone https://github.com/Hyperizon/go-books-api.git`
 2. Projeyi indirdiğiniz dizine gidin: `cd go-books-api`
 3. PostgreSQL veritabanınızı oluşturun.
-4. `.env` dosyasını oluşturun ve içine veritabanı bağlantı bilgilerinizi yazın. Örnek bir `.env` dosyasını [buradan] inceleyebilirsiniz.
+4. `.env` dosyasını oluşturun ve içine veritabanı bağlantı bilgilerinizi yazın. Örnek bir `.env` projede mevcuttur inceleyebilirsiniz.
 5. Uygulamayı derleyin: `go build`
 6. Uygulamayı çalıştırın: `./go-books-api`
 7. Tarayıcınızda veya Postman gibi bir araçta `http://localhost:3000` adresine gidin.
